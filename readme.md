@@ -1,4 +1,4 @@
 # Read Me
 
-Hello World!
+hello world! Lower Case!
 Hello KS009
